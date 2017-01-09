@@ -14,7 +14,7 @@ This is an simple example to set up a server which can serve web app.
 	sudo allow ssh
 	sudo allow 2200/tcp
 	```
-- To mak login more secure, use RSA keys instead of passwords.
+- To login more securely, use RSA keys instead of passwords.
 
 #### Install third-party resources
 
